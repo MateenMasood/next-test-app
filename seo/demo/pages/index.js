@@ -16,7 +16,7 @@ export default function Start({ countries }) {
   return (
     <div>
       <Head>
-        <title>Core Web Vitalsssss</title>
+        <title>Core Web Vitalseeessss</title>
         <meta name="description" content="Core web vitals walk through" />
         <link rel="icon" href="/favicon.ico" />
         <link
